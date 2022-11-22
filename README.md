@@ -1,4 +1,4 @@
-![Monty Python Origins](https://github.com/mnlazs/holbertonschool-monty/blob/main/images.jpeg) <br>
+![Monty Python Origins](https://github.com/mnlazs/holbertonschool-monty/blob/main/montypython1280jpg-6e4b28_160w.jpeg) <br>
 # **MONTY**
 
 
