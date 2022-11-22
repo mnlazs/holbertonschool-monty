@@ -1,4 +1,7 @@
-# 0x19. C - Stacks, Queues - LIFO, FIFO
+![Monty Python Origins](https://github.com/mnlazs/holbertonschool-monty/blob/main/images.jpeg) <br>
+# **MONTY**
+
+
 ## Objectives
 ### General
 - What do LIFO and FIFO mean
