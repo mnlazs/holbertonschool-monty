@@ -1,12 +1,12 @@
 #ifndef MONTY_H
 #define MONTY_H
 
-#include <stdout.h>
-#include <stderr.h>
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
+extern int n;
+
 /**
  * struct stack_s - doubly linked list representation of a stack (or queue)
  * @n: integer
@@ -94,5 +94,5 @@ void _pchar(stack_t **top, unsigned int line_number);
 /*stack 4 */
 void pstr_stack(stack_t **top, unsigned int line_number);
 
-#endif /* _MONTY_H_ */
+#endif
 
